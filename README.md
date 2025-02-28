@@ -38,6 +38,7 @@ if __name__ == "__main__":
 
 ---
 
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=40&color=0:468fb9,100:3b76c4&stroke=3b76c4)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pepitogrillo05&show_icons=true&theme=graywhite" alt="GitHub Stats" height="170"/>
