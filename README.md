@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
 ---
 
-![](https://capsule-render.vercel.app/api?type=transparent&height=100&text=🔎%20PepitoGrillo05&fontSize=50&fontColor=9370DB&desc=~%20a%20kind%20of%20developer%2C%20into%20cybersecurity.&descSize=20&descAlignY=75&descAlign=60)
+![](https://capsule-render.vercel.app/api?type=transparent&height=100&text=%F0%9F%94%8E%20PepitoGrillo05&fontSize=50&fontColor=9370DB&desc=~%20a%20kind%20of%20developer%2C%20into%20cybersecurity.&descSize=20&descAlignY=90&descAlign=60)
 
 <div align="center">
   <p><i>Even though I don't use GitHub that much, I sometimes like contributing to some projects.</i></p>
